@@ -16,24 +16,26 @@
         <p>🔭 I’m currently a final year student at <strong><a href="https://www.nitw.ac.in">National Institute of Technology, Warangal</a></strong></p>
       </li>
       <li>
+        <p>🌱  I'm currently learning ML/AI.</p>
+      </li>
+      <li>
         <p>🌱  I'm interested in Web Development.</p>
       </li>
       <li>
         <p>👨‍💻 I'm a passionate Competitive Programmer and Software Developer.</strong></p>
       </li>
-
+<!--       <li>
+        <p>👨‍💻 Visit my PORTFOLIO <a href="portfolio.github.io">portfolio.github.io</a></p>
+      </li> -->
       <li>
-        <p>👨‍💻 Visit my PORTFOLIO <a href="portfolio.github.io">suffisme.github.io</a></p>
-      </li>
-      <li>
-        <p>📫 How to reach me <strong>@gmail.com</strong></p>
+        <p>📫 How to reach me <a href="mailto:suryaprakash2002425@gmail.com"> suryaprakash2002425@gmail.com </a>
       </li>
     </ul>
   </td>
 </table>
 
 <br/>
-<hr/>
+
 
 
 
@@ -51,7 +53,6 @@
 
 <!-- ### Hi there 👋
 
-<!--
 **M-SuryaPrakash/M-SuryaPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -64,4 +65,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
